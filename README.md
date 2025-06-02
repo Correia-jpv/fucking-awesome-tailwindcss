@@ -95,6 +95,7 @@
 - 🧩 🌎 [8bitcn UI](8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 - 🧩 <b><code>&nbsp;&nbsp;&nbsp;432⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;18🍴</code></b> [Xtend UI](https://github.com/xtendui/xtendui)) - Tailwind CSS components with advanced interactions and animations.
 - 🧩 🌎 [Tremor](tremor.so) - React library to build charts and dashboards with Tailwind CSS.
+- 🧩 📚 [FlyonUI](https://flyonui.com/pro) - It extends the open-source FlyonUI with premium Tailwind CSS components, blocks, and templates for fast, responsive UI development.
 - 📚 <b><code>&nbsp;37061⭐</code></b> <b><code>&nbsp;&nbsp;1464🍴</code></b> [Daisy UI](https://github.com/saadeghi/daisyui)) - UI Components for Tailwind CSS.
 - 📚 🌎 [Flowbite](flowbite.com/docs/getting-started/introduction/) - Component library built with Tailwind CSS.
 - 📚 🌎 [STDF](stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
